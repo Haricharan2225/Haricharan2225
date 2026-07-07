@@ -155,17 +155,8 @@ Skill Marketplace Platform
 - 🎯 Preparing for AI & Software Engineering Roles
 
 ---
-<div align="center">
 
-## 🤝 Let's Build Something Amazing Together!
-
-I'm always open to collaborating on innovative AI, Machine Learning, and Full Stack Development projects.
-
-⭐ If you like my work, don't forget to star my repositories!
-
-💙 Thanks for visiting my GitHub Profile.
-
-</div>
+# 📫 Let's Connect
 
 <p align="center">
 
