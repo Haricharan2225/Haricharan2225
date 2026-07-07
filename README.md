@@ -128,7 +128,7 @@ Skill Marketplace Platform
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Haricharan2225&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Haricharan2225&theme=tokyonight"/>
+<img height="170" src="https://streak-stats.demolab.com?user=Haricharan2225&theme=tokyonight"/>
 
 </p>
 
@@ -138,29 +138,34 @@ Skill Marketplace Platform
 
 </p>
 
----
-
 # 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Haricharan2225&theme=onedark&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Haricharan2225&theme=onedark&row=1&column=7&margin-w=15"/>
 
 </p>
 
----
+# 🚀 Current Focus
 
-# 🌱 Currently Learning
-
-- Deep Learning
-- Generative AI
-- System Design
-- Data Structures & Algorithms
-- Cloud Basics
+- 🤖 Building Real-World AI & Machine Learning Projects
+- 🌐 Developing Scalable MERN Stack Applications
+- 💡 Strengthening Data Structures & Algorithms
+- ☁️ Learning Cloud Deployment & DevOps Basics
+- 🎯 Preparing for AI & Software Engineering Roles
 
 ---
+<div align="center">
 
-# 📫 Let's Connect
+## 🤝 Let's Build Something Amazing Together!
+
+I'm always open to collaborating on innovative AI, Machine Learning, and Full Stack Development projects.
+
+⭐ If you like my work, don't forget to star my repositories!
+
+💙 Thanks for visiting my GitHub Profile.
+
+</div>
 
 <p align="center">
 
